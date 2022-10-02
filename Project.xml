@@ -100,6 +100,7 @@
 	<haxelib name="discord_rpc" if="desktop"/>
 	<haxelib name="actuate" />
 	<haxelib name="extension-webm" if="desktop" />
+	<haxelib name="openfl-webm" />
 
 	<!-- <haxelib name="markdown" /> -->
 	<!-- <haxelib name="HtmlParser" /> -->
