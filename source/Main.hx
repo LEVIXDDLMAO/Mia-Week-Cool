@@ -16,7 +16,6 @@ class Main extends Sprite
 	#end
 
 	public static var video:Bool = !Sys.args().contains("-novid");
-	public static var preload:Bool = !Sys.args().contains("-nopreload");
 
 	public function new()
 	{
