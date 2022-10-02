@@ -30,6 +30,7 @@ jobs:
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib git extension-webm https://github.com/ThatRozebudDude/extension-webm
+          haxelib install openfl-webm
           haxelib list
       - name: Compile
         run: haxelib run lime build html5 -final
